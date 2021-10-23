@@ -19,7 +19,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Electron](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg)
+  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Material-ui](https://img.shields.io/badge/-Material_Ui-333333?style=flat&logo=materialUi&logoColor=03A9F4)
