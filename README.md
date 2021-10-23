@@ -11,8 +11,9 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp&logoColor=00FF00)
-  ![C](https://img.shields.io/badge/-C_language-333333?style=flat&logo=c&logoColor=0000FF)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C](https://img.shields.io/badge/-C_Language-333333?style=flat&logo=c)
+  ![C#](https://img.shields.io/badge/-C#_Language-333333?style=flat&logo=c#)
+
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
