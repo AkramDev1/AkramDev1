@@ -12,7 +12,6 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp&logoColor=00FF00)
   ![C](https://img.shields.io/badge/-C_Language-333333?style=flat&logo=c)
-
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
