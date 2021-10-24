@@ -9,10 +9,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp&logoColor=00FF00)
   ![C](https://img.shields.io/badge/-C_Language-333333?style=flat&logo=c)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp&logoColor=00FF00)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -28,6 +28,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub Desktop](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github desktop)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
