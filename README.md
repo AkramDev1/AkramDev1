@@ -25,6 +25,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=Postgres)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![Sql Server](https://img.shields.io/badge/-Sql%20Server-333333?style=flat&logo=Sql%20Server)
 - ⚙️ &nbsp;
