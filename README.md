@@ -26,16 +26,18 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![SqlServer](https://img.shields.io/badge/-Sql server-333333?style=flat&logo=Sql server)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-  ![Docker-compose](https://img.shields.io/badge/-DockerCompose-333333?style=flat&logo=DockerCompose)
+  ![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Intellij](https://img.shields.io/badge/-intellij-333333?style=flat&logo=intellij&logoColor=875F9A)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=875F9A)
 
 
