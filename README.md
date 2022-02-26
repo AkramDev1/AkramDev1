@@ -32,6 +32,7 @@
   ![Sql Server](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoft-sql-server)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
