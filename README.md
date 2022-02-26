@@ -21,7 +21,7 @@
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-ui](https://img.shields.io/badge/-Materialui-333333?style=flat&logo=materialui&logoColor=03A9F4)
+  ![Material-ui](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=03A9F4)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
