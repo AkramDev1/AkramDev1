@@ -27,7 +27,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=Postgresql)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-  ![Sql Server](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=SQL%20Server)
+  ![Sql Server](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=SQL%20Server)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
